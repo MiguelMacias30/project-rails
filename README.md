@@ -7,3 +7,6 @@ para ejecutar el proyecto
 -rails s 
 
 tiene un seed precargado y una migracion por hacer.
+
+
+![image](https://user-images.githubusercontent.com/69688628/206376556-50676351-b033-4215-9c04-688c284eed15.png)
